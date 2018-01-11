@@ -5,6 +5,7 @@ FLIGHT_DB = 'KLMDB'
 HOTEL_DB = 'BookingDB'
 BANK_DB = 'BankDB'
 XID = 1
+SOME_NEW_LINE = 'Test for git'
 
 TAKE_MONEY_COMMAND = "update public.Account set Amount = Amount - 100 where ClientName = 'vasia'";
 CREATE_FLIGHT_COMMAND = "INSERT INTO public.Flights( ClientName, FlightNumber, \"From\", \"To\", DateTime) VALUES('vasia_test_fail_all', 'KLM 730', 'LVI', 'WAR', '2017-05-05'); ";
