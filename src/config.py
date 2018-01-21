@@ -1,6 +1,5 @@
 HOST = 'localhost'
 USER = 'postgres'
-PASSWORD = '[Ak95Vm96]'
 FLIGHT_DB = 'KLMDB'
 HOTEL_DB = 'BookingDB'
 BANK_DB = 'BankDB'
